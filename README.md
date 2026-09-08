@@ -1,3 +1,6 @@
+# Reflection
+Although I took the time to learn the basics of Airflow in the past, this project taught me a lot of what Airflow can actually do outside of simply running python scripts in an order on a schedule. Learning how to use AWS as a datastore was also interesting as I always had enjoyed designing cloud architecture.
+Overall, this was one of my favorite projects as I enjoy the process of pipeline creation and automation. 
 # Data Pipelines with Airflow
 
 Welcome to the Data Pipelines with Airflow project! This endeavor will provide you with a solid understanding of Apache Airflow's core concepts. Your task involves creating custom operators to execute essential functions like staging data, populating a data warehouse, and validating data through the pipeline.
